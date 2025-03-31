@@ -1,0 +1,14 @@
+{
+    "name": "Eu4ng.Manager.Input",
+    "rootNamespace": "Eu4ng.Manager.Input",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
